@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... HTML.
 - 💞️ I’m looking to collaborate on ... absolutely nothing.
 - 📫 How to reach me ... realoldsoultech@tutamail.com
-- 😄 Pronouns: ... he/him
+- 😄 Pronouns: ... he/they
 - ⚡ Fun fact: ... I run a social media called Qlix! Visit at https://qlix.site
 
 <!---
